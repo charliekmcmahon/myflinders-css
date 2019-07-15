@@ -128,7 +128,10 @@
 		background-color: /*[[selection2colour]]*/;
 	}
 	
-	
+	.hybrid-bar .top-menu li a:hover
+	{
+		background-color: /*[[selection2colour]]*/;
+	}
 	
 	
 }
