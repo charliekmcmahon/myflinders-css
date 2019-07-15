@@ -122,6 +122,10 @@
 		color: /*[[hovercolour]]*/;
 	}
 
+	.left-off-canvas-menu ul.off-canvas-list li a:hover
+	{
+		color: /*[[customcolour]]*/;
+	}
 	
 	
 	
