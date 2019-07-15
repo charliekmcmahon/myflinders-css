@@ -109,7 +109,11 @@
     color: /*[[customcolour]]*/;
   }
 	
-	
+
+ ::selection
+	{
+		background-color: /*[[selectioncolour]]*/;
+	}
 	
 	
 
