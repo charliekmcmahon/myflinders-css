@@ -132,6 +132,14 @@
 	{
 		background-color: /*[[selection2colour]]*/;
 	}
+	.global-search [type="text"]:focus, .global-search [type="text"]:active, .global-search:hover [type="text"], .global-search:hover [type="text"]:focus
+	{
+		border: 2px solid /*[[customcolour]]*/;
+	}
 	
+    .left-off-canvas-menu ul.off-canvas-list li h3 a:hover, .left-off-canvas-menu ul.off-canvas-list li h4 a:hover
+	{
+		color: /*[[customcolour]]*/;
+	}
 	
 }
