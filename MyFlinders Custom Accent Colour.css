@@ -9,7 +9,7 @@
 
   #hybrid-bar ul li a:before
   {
-    color: /*[[customcolour]]*/;
+    color: /*[[customcolour]]*/; 
   }
 
   #hybrid-bar ul li span
