@@ -142,4 +142,8 @@
 		color: /*[[customcolour]]*/;
 	}
 	
+	.a img
+	{
+		display: none;
+	}
 }
