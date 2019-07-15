@@ -144,6 +144,6 @@
 	
 	img
 	{
-		display: none;
+		display: /*[[display]]*/;
 	}
 }
