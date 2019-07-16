@@ -250,4 +250,9 @@
 	{
 		color: white;
 	}
+
+	.account-menu
+	{
+	content:url(/*[[imageurl]]*/) !important;
+	}
 }
