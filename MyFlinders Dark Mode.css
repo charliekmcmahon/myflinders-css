@@ -189,4 +189,30 @@
 	{
 		background-color: black;
 	}
+	
+	#component-layout .column-left .component-titlebar
+	{
+		background-color: #353535;
+		
+	}
+	
+	.tabs
+	{
+		background-color: #353535;
+	}
+	
+	.global-search
+	{
+		background: black;
+	}
+	
+	table thead
+	{
+		background: black;
+	}
+	timetable-subject
+	{
+		background: black;
+	}
+	
 }
