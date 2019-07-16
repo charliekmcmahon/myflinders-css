@@ -268,4 +268,9 @@
 	{
 		background-color: black;
 	}
+	.grid>li
+	{
+		border-right: 0px solid #ededed;
+    	border-bottom: 0px solid #ededed;
+	}
 }
