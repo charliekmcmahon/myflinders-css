@@ -279,4 +279,9 @@
 	content:url(https://i.imgur.com/aImv7jG.png) !important;
 	}
 	
+	.hybrid-bar .top-menu li a.navthis
+	{
+		background-color: #6b6b6b;
+	}
+	
 }
