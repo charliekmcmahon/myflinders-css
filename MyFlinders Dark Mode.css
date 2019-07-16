@@ -177,8 +177,16 @@
 	
 	.left-off-canvas-menu
 	{
-		color: black;
+		background: black;
 	}
 	
+	.tab-bar
+	{
+		background: black;
+	}
 	
+	.left-off-canvas-menu .logo-wrapper
+	{
+		background-color: black;
+	}
 }
