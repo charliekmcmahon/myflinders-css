@@ -198,7 +198,7 @@
 	
 	.tabs
 	{
-		background-color: #353535;
+		background-color: black;
 	}
 	
 	.global-search
@@ -221,9 +221,20 @@
 		background: black;
 	}
 	
-	.footer.clearfix.ul.li.a
+	.island section
 	{
-		color: beige;
+		background-color: black;
 	}
+	
+	.tabs dd.active>a, .tabs .tab-title.active>a
+	{
+		color: white;
+	}
+	
+	.calendar-list
+	{
+		display: none !important;
+	}
+	
 	
 }
