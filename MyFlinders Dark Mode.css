@@ -273,4 +273,10 @@
 		border-right: 0px solid #ededed;
     	border-bottom: 0px solid #ededed;
 	}
+	
+	.logo
+	{
+	content:url(https://i.imgur.com/4y0rCQ0.png) !important;
+	}
+	
 }
