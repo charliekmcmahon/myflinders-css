@@ -241,4 +241,8 @@
 		background-color: black;
 	}
 	
+	.global-search [type="text"]:focus, .global-search [type="text"]:active, .global-search:hover [type="text"], .global-search:hover [type="text"]:focus
+	{
+		background-color: black;
+	}
 }
