@@ -1,0 +1,155 @@
+/* Made by Charlie McMahon. © 2019. */
+
+@-moz-document domain("myflinders.mfac.edu.au")
+{
+  #component-layout .column-left .component-titlebar
+  {
+    background-color: white;
+  }
+
+  #hybrid-bar ul li a:before
+  {
+    color: white; 
+  }
+
+  #hybrid-bar ul li span
+  {
+    color: white;
+  }
+
+  .left-off-canvas-menu .account-menu .accordion-navigation .profile-drop
+  {
+    color: white;
+  }
+
+  .left-off-canvas-menu ul.off-canvas-list li a
+  {
+    color: white;
+  }
+
+  .left-off-canvas-menu h3, .left-off-canvas-menu h4
+  {
+    color: white;
+  }
+
+  a
+  {
+    color: white;
+  }
+
+  .hybrid-bar #search .icon-search:before
+  {
+    color: white;
+  }
+
+  .right-small a[data-unread]
+  {
+    color: white;
+  }
+
+  .actions-small-1>nav a[class*="icon-"], .actions-small-1>nav a[class^="icon-"], .island .row.actions-small-1>nav a[class*="icon-"], .island .row.actions-small-1>nav a[class^="icon-"]
+  {
+    color: white;
+  }
+
+  #component-layout .column-top .component-titlebar
+  {
+    background-color: white;
+  }
+
+  #component-layout .column-right .component-titlebar
+  {
+    background-color: white;
+  }
+
+  .button, .context-switch nav a, .avatar-switch nav a, .attachzone .dzone.button, .dropzone-wrap .dzone.button, button, input[type="submit"], a.submit, button.submit, .flex-list.buttons a.submit, .flex-list.buttons button.submit, .flex-list.buttons a, .flex-list.buttons button, .adtp-btn
+  {
+    color: white;
+  }
+
+  .actions-small-4>nav a[class*="icon-"], .actions-small-4>nav a[class^="icon-"], .island .row.actions-small-4>nav a[class*="icon-"], .island .row.actions-small-4>nav a[class^="icon-"]
+  {
+    color: white;
+  }
+
+  .left-off-canvas-menu .account-menu .content a, .left-off-canvas-menu .account-menu .resource-browser .meta-panel a, .resource-browser .left-off-canvas-menu .account-menu .meta-panel a, .left-off-canvas-menu .account-menu .matching-pairs p a, .matching-pairs .left-off-canvas-menu .account-menu p a, .left-off-canvas-menu .account-menu .calendar-list label a, .calendar-list .left-off-canvas-menu .account-menu label a, .left-off-canvas-menu .account-menu .calendar-list li.row a, .calendar-list .left-off-canvas-menu .account-menu li.row a
+  {
+    color: white;
+  }
+
+  input[type="submit"], a.submit, button.submit, .flex-list.buttons a.submit, .flex-list.buttons button.submit
+  {
+    background-color: white;
+  }
+
+  .button, .context-switch nav a, .avatar-switch nav a, .attachzone .dzone.button, .dropzone-wrap .dzone.button, button, input[type="submit"], a.submit, button.submit, .flex-list.buttons a.submit, .flex-list.buttons button.submit, .flex-list.buttons a, .flex-list.buttons button, .adtp-btn
+  {
+    color: white;
+  }
+
+  .left-off-canvas-menu .account-menu .accordion-navigation .profile-drop:after
+  {
+    color: white;
+  }
+
+  .tabs dd.active a, .tabs li.tab-title.active a
+  {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+  }
+
+  .actions-small-2>nav a[class*="icon-"], .actions-small-2>nav a[class^="icon-"], .island .row.actions-small-2>nav a[class*="icon-"], .island .row.actions-small-2>nav a[class^="icon-"]
+  {
+    color: white;
+  }
+	
+ .left-off-canvas-menu ul.off-canvas-list li h3, .left-off-canvas-menu ul.off-canvas-list li h4
+  {
+    color: white;
+  }
+	
+
+ ::selection
+	{
+		background-color: /*[[selectioncolour]]*/;
+	}
+	
+	
+ a:hover, a:focus
+	{
+		
+		color: /*[[hovercolour]]*/;
+	}
+
+	.left-off-canvas-menu ul.off-canvas-list li a:hover
+	{
+		color: white;
+		background-color: /*[[selection2colour]]*/;
+	}
+	
+	.hybrid-bar .top-menu li a:hover
+	{
+		background-color: /*[[selection2colour]]*/;
+	}
+	.global-search [type="text"]:focus, .global-search [type="text"]:active, .global-search:hover [type="text"], .global-search:hover [type="text"]:focus
+	{
+		border: 2px solid white;
+	}
+	
+    .left-off-canvas-menu ul.off-canvas-list li h3 a:hover, .left-off-canvas-menu ul.off-canvas-list li h4 a:hover
+	{
+		color: white;
+	}
+	
+	img
+	{
+		display: /*[[display]]*/;
+	}
+	
+	h1, h2, h3, h4, h5, h6
+	{
+		color: white;
+		
+	}
+}
