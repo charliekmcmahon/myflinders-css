@@ -210,9 +210,10 @@
 	{
 		background: black;
 	}
-	timetable-subject
+	.timetable-subject
 	{
-		background: black;
+		background: #000000 !important;
 	}
+	
 	
 }
