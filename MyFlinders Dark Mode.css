@@ -236,5 +236,9 @@
 		display: none !important;
 	}
 	
+	.right-small a[data-unread]:not([data-unread="0"])
+	{
+		background-color: black;
+	}
 	
 }
