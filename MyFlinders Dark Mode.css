@@ -250,11 +250,6 @@
 	{
 		color: white;
 	}
-
-	.account-menu
-	{
-	content:url(/*[[imageurl]]*/) !important;
-	}
 	
 	#component-layout .column-left .island section
 	{
