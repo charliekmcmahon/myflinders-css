@@ -255,4 +255,17 @@
 	{
 	content:url(/*[[imageurl]]*/) !important;
 	}
+	
+	#component-layout .column-left .island section
+	{
+		background-color: rgb(94, 94, 94);
+	}
+	#component-layout .column-right .component-titlebar
+	{
+		background-color: black;
+	}
+	#component-layout .column-right .island section
+	{
+		background-color: black;
+	}
 }
