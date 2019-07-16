@@ -215,5 +215,11 @@
 		background: #000000 !important;
 	}
 	
+	.timetable td, .timetable th, .timetable-small td, .timetable-small th
+	{
+		border: 1px solid #5f5f5f;
+		background: black;
+	}
+	
 	
 }
