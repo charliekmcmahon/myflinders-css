@@ -1,0 +1,10 @@
+/* Made by Charlie McMahon. © 2019. */
+
+@-moz-document domain("myflinders.mfac.edu.au")
+{
+  .account-menu
+	{
+	content:url(/*[[imageurl]]*/) !important;
+	}
+	
+}
