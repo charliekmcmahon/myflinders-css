@@ -146,4 +146,9 @@
 	{
 		display: /*[[display]]*/;
 	}
+	
+	.logo
+	{
+	content:url(https://i.imgur.com/ScfbP5G.png) !important;
+	}
 }
