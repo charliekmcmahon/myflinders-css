@@ -152,4 +152,21 @@
 		color: white;
 		
 	}
+	table thead tr th, table thead tr td
+	{
+		color: white;
+	}
+	
+	table tr th, table tr td
+	{
+		
+		color: white;
+	}
+	
+	
+	.meta, .island .dataTables_wrapper .dataTables_info, .mceEditor.cirkuitSkin table.mceLayout tr.mceLast td.mceStatusbar, .mceEditor.cirkuitSkin table.mceLayout tr.mceLast td.mceStatusbar span, .mceEditor.cirkuitSkin table.mceLayout tr.mceLast td.mceStatusbar a, .component-action .component-action-info
+	{
+		color: white;
+	}
+	
 }
